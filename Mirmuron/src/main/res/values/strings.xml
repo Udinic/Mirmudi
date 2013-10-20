@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mirmudi</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="mirmur1">נו באמת..</string>
+    <string name="mirmur2">כמה זה קורה</string>
+    <string name="mirmur3">עיצוב טוב..</string>
+    <string name="mirmur4">בסוף קרה</string>
+    <string name="mirmur5">ישנאו באנדרואיד</string>
+    <string name="mirmur6">עוד מכשירים</string>
+    <string name="mirmur7">לא יעבוד</string>
+    <string name="mirmur8">לא יקרה</string>
+    <string name="mirmur9">הרשאות</string>
+    <string name="mirmur10">יסירו אותך</string>
+</resources>
